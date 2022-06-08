@@ -1,0 +1,23 @@
+
+Naming Scheme (To help with naming future versions)
+vA.B.C.D EFG
+A = Major Update
+B = Regular Update
+C = Minor Update, Bug Fixes
+D = Game Version and 3rd Party Mod Updates
+E = Public, Private
+F = Beta, Alpha, Dev
+G = Build Number
+
+ATR and TOF TODO List
+
+v0.0.1.0 dev1
+- Add a custom settings Tab
+- Add some settings to change the gameplay and roles
+- Add a role (any easy role for now)
+- Add Custom Servers, CrowdedMod and Submerged compatibility
+- Add some custom hats and colors and at least attempt to add custom visors and nameplates (This one comes last)
+- Hopefully release v0.0.1.0 publicBeta
+
+v0.0.2.0 dev1
+-TBD

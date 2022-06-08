@@ -1,0 +1,41 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <LangVersion>latest</LangVersion>
+        <DebugType>embedded</DebugType>
+
+        <VersionPrefix>0.0.1</VersionPrefix>
+        <VersionSuffix>alpha</VersionSuffix> 
+        <Description>A mod made to add a bunch of stuff!</Description>
+        <Authors>AD and Ember</Authors>
+
+    </PropertyGroup>
+
+    <PropertyGroup Condition="'$(GamePlatform)' == 'Steam'">
+
+        <GameVersion>2022.3.29</GameVersion>
+        <DefineConstants>$(DefineConstants);STEAM</DefineConstants>
+
+    </PropertyGroup>
+
+    <ItemGroup>
+
+        <PackageReference Include="Reactor" Version="1.2.5" />
+        <PackageReference Include="BepInEx.IL2CPP" Version="6.0.0-be.562" />
+        <PackageReference Include="AmongUs.GameLibs.$(GamePlatform)" Version="$(GameVersion)" PrivateAssets="all" />
+
+        <PackageReference Include="BepInEx.AutoPlugin" Version="1.0.1" PrivateAssets="all" />
+        <PackageReference Include="BepInEx.IL2CPP.MSBuild" Version="1.0.2" PrivateAssets="all" />
+
+    </ItemGroup>
+
+    <Target Name="Copy" AfterTargets="Build" Condition="'$(AmongUs)' != ''">
+
+        <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(AmongUs)/BepInEx/plugins/" UseSymboliclinksIfPossible="true" />
+
+    </Target>
+    
+</Project>
