@@ -1,2 +1,4 @@
-# AllTheRoles
-The Among Us mod that has everything, and a bit more of everything!
+
+## All The Roles
+
+THIS MOD IS IN ACTIVE DEVELOPMENT. PLEASE BE PATIENT TILL WE FINISH UP FOR THE FIRST RELEASE.
