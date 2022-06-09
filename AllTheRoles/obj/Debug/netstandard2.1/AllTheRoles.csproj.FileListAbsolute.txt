@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\Modded Mogus\AllTheRoles\Code\ATR Self Code\AllTheRoles\AllTheRoles\bin\Debug\netstandard2.1\AllTheRoles.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Modded Mogus\AllTheRoles\Code\ATR Self Code\AllTheRoles\AllTheRoles\bin\Debug\netstandard2.1\AllTheRoles.dll
+C:\Program Files (x86)\Steam\steamapps\common\Modded Mogus\AllTheRoles\Code\ATR Self Code\AllTheRoles\AllTheRoles\obj\Debug\netstandard2.1\AllTheRoles.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Modded Mogus\AllTheRoles\Code\ATR Self Code\AllTheRoles\AllTheRoles\obj\Debug\netstandard2.1\AllTheRoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\Modded Mogus\AllTheRoles\Code\ATR Self Code\AllTheRoles\AllTheRoles\obj\Debug\netstandard2.1\AllTheRoles.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Modded Mogus\AllTheRoles\Code\ATR Self Code\AllTheRoles\AllTheRoles\obj\Debug\netstandard2.1\AllTheRoles.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\Modded Mogus\AllTheRoles\Code\ATR Self Code\AllTheRoles\AllTheRoles\obj\Debug\netstandard2.1\AllTheRoles.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Modded Mogus\AllTheRoles\Code\ATR Self Code\AllTheRoles\AllTheRoles\obj\Debug\netstandard2.1\AllTheRoles.dll
